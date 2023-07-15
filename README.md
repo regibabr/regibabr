@@ -16,7 +16,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/regimilson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div><br><br>
+</div>
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regibabr)](https://github.com/regibabr/github-readme-stats)
