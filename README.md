@@ -9,7 +9,7 @@
   <img align="center" alt="Regi-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
 
-</div><br><br>
+</div><br>
   
   ##
  
