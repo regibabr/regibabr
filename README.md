@@ -18,7 +18,7 @@
   
 </div>
 
-<div> 
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regibabr)](https://github.com/regibabr/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=regibabr) 
-</div>
+
