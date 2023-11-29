@@ -1,4 +1,4 @@
-## Olá, eu sou Regimilson Silva, sou supervisor de planejamento e estou migrando para DEV!
+## Olá, eu sou Regimilson Silva, sou supervisor de planejamento e apaixonado por desenvolvimento!
 
 
 <div style="display: inline_block"><br>
