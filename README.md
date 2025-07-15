@@ -5,6 +5,11 @@
 
 Utilizo programação como aliada para gerar eficiência, economia e inteligência em projetos. Crio soluções que facilitam a tomada de decisão através de automações e visualizações inteligentes de dados.
 
+### 🐍 Snake com meus commits
+
+![Snake animation](https://github.com/regibabr/regibabr/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ---
 
