@@ -25,12 +25,18 @@ Utilizo programação como aliada para gerar eficiência, economia e inteligênc
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=regibabr&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=regibabr&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regibabr&layout=compact&theme=dark"/>
-</div>
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=regibabr&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+## 📈 GitHub Stats
+![Regimilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=regibabr&show_icons=true&theme=tokyonight)
+
+## 🗂️ Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regibabr&layout=compact&theme=tokyonight)
+
 
 ---
 
