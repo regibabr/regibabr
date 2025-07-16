@@ -28,8 +28,7 @@ Utilizo programação como aliada para gerar eficiência, economia e inteligênc
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=regibabr&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=regibabr&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 ## 📈 GitHub Stats
 ![Regimilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=regibabr&show_icons=true&theme=tokyonight)
